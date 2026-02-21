@@ -1,16 +1,35 @@
-## Hi there 👋
+## Hi there 👋, I'm Saurabh Singh Rathore
 
-<!--
-**Saurabh-Singh33/Saurabh-Singh33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I am a Computer Science Engineering student passionate about software development and building real-world applications.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on  
+- Java projects using Swing and Servlets  
+- Improving my problem-solving and development skills  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning  
+- Mobile App Development using React Native  
+- Web Development (React, JavaScript)  
+- Advanced Java concepts  
+
+👯 I’m looking to collaborate on  
+- Java projects  
+- Beginner-friendly open source projects  
+- Web and Mobile app projects  
+
+🤔 I’m looking for help with  
+- Advanced development concepts  
+- Open source contribution guidance  
+
+💬 Ask me about  
+- Core Java  
+- Swing GUI Development  
+- Servlets  
+- Beginner Web Development  
+
+📫 How to reach me:  
+- GitHub: https://github.com/Saurabh-Singh33  
+
+😄 Pronouns: He/Him  
+
+⚡ Fun fact:  
+I love learning new technologies and building projects to improve my skills.
