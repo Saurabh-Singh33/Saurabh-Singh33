@@ -8,7 +8,7 @@
 
 🌱 I’m currently learning  
 - Mobile App Development using React Native  
-- Web Development (React, JavaScript)  
+- Web Development (Full-Stack Mern Development)  
 - Advanced Java concepts  
 
 👯 I’m looking to collaborate on  
