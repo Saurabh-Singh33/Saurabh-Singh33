@@ -11,7 +11,6 @@
 - Java projects  
 - Beginner-friendly open source projects  
 - Web and Mobile app projects
-- 
 💬 Ask me about  
 - Core Java  
 - Swing GUI Development  
@@ -20,6 +19,5 @@
 
 📫 How to reach me:  
 - GitHub: https://github.com/Saurabh-Singh33
-- 
 ⚡ Fun fact:  
 I love learning new technologies and building projects to improve my skills.
