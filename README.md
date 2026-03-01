@@ -6,13 +6,7 @@
 - Mobile App Development using React Native  
 - Web Development (Full-Stack Mern Development)  
 - Advanced Java concepts
-
-💬 Ask me about  
-- Core Java  
-- Swing GUI Development  
-- Mobile App Development(React-Native) 
--  MERN Full-Stack  Developer.
-
+- 
 📫 How to reach me:  
 - GitHub: https://github.com/Saurabh-Singh33 
 
