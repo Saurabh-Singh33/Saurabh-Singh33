@@ -6,9 +6,6 @@
 - Mobile App Development using React Native  
 - Web Development (Full-Stack Mern Development)  
 - Advanced Java concepts
-- 
-📫 How to reach me:  
-- GitHub: https://github.com/Saurabh-Singh33 
 
 ⚡ Fun fact:  
 I love learning new technologies and building projects to improve my skills.
