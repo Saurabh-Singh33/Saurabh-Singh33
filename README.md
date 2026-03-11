@@ -19,3 +19,6 @@ I love learning new technologies and building projects to improve my skills.
 
 ### 🔥 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Saurabh-Singh33&theme=tokyonight)
+
+### 📈 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh-Singh33&layout=compact&theme=tokyonight)
