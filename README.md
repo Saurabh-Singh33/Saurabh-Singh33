@@ -12,6 +12,14 @@ I love learning new technologies and building projects to improve my skills.
 
 ---
 
+### 📄 Resume
+
+📥 **Download My Resume**
+
+[![Resume](https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/uc?export=download&id=1K3JGLXdv5zVn-p2Uo91aNLAFPAEuQHlf)
+
+---
+
 ### 📊 GitHub Stats
 ![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saurabh-Singh33&show_icons=true&theme=tokyonight)
 
