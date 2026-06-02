@@ -6,6 +6,7 @@
 - Mobile App Development using React Native  
 - Web Development (Full-Stack MERN Development)  
 - Advanced Java Concepts
+- Python and machine learning 
 
 ⚡ Fun fact:  
 I love learning new technologies and building projects to improve my skills.
