@@ -17,4 +17,4 @@ I love learning new technologies and building projects to improve my skills.
 
 📥 **Download My Resume**
 
-[![Resume](https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/uc?export=download&id=1K3JGLXdv5zVn-p2Uo91aNLAFPAEuQHlf)
+[![Resume](https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/drive/u/0/folders/1LvK7ptqWCfBGx8uJL219SlRXM0eZn6I_)
