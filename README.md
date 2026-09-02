@@ -10,7 +10,7 @@
 ⚡ Fun fact:  
 I love learning new technologies and building projects to improve my skills.
 
-## 📄 Resume
+ 📄 Resume
 
 📥 **Download My Resume**
 
